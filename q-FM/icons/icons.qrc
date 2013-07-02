@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>channel_left.png</file>
+        <file>channel_right.png</file>
+        <file>icons.qrc</file>
+        <file>pause.png</file>
+        <file>QDoubanFM.png</file>
+        <file>volume.png</file>
+        <file>start.png</file>
+        <file>play.png</file>
+        <file>stop1normal.png</file>
+        <file>radio.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>

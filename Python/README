@@ -1,0 +1,4 @@
+Python Level Implementation of FM Receiver using WBX daughterboard.
+
+2013_3_11 fm_rx_wbx_origin.py : Simpliest application with parameter hard coded and without any GUIs.
+2013_3_11 fm_rx_wbx_quad.py   : Make it simpler, using quad_mod in place of wfm_rcv. SEE wfm_rcv is the combination of quad_demod, decimation filter , Deemphasis filte去加重. We try to use only quad_mod to see if this has SNR loss
