@@ -1,4 +1,4 @@
-Soft_FM
+swFM
 =======
 
-A software defined FM receiver based on USRP and GNURadio with QT user interface
+A software defined FM receiver based on SDR with QT user interface
